@@ -16,6 +16,12 @@ Official public release repository for **ParseQuest Desktop** ([https://parse.qu
 Get-FileHash .\ParseQuest-Desktop-0.1.0-x64-setup.exe -Algorithm SHA256
 ```
 
+## Upcoming: v0.1.1 (Post-Beta Stabilization)
+
+**Status:** Code complete ([release notes](./RELEASE_NOTES_v0.1.1.md)) — awaiting Windows code signing before installer build.
+
+Resolves 14 audit findings across collector resilience, security hardening, data integrity, and commercial alignment. See [`RELEASE_NOTES_v0.1.1.md`](./RELEASE_NOTES_v0.1.1.md) for full details.
+
 ## Documentation & Policies
 - **Product Overview & Features:** [https://parse.quest/features](https://parse.quest/features)
 - **Trust & Security Architecture:** [https://parse.quest/trust](https://parse.quest/trust)
