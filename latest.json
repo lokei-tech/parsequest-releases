@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "ParseQuest Desktop v0.1.1: Windows Authenticode signing, collector resilience hotfixes, security hardening, cross-collection FTS5 search, academic citations, and signed auto-updater.",
-  "pub_date": "2026-11-13T00:00:00Z",
+  "version": "0.1.2",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRkV3OFJOVkFIMUwreXZaTlBZYTRKRGFkay9XU2dPRWJnK2dSSng1RUxvb0g5Rkh1RFBqK2xraExzTU0yYXRqRng1YkZ3U3lXWm1keEpVeEh2N3pOc3g0SnlUS0RNd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQwNDM2CWZpbGU6UGFyc2VRdWVzdCBEZXNrdG9wXzAuMS4xX3g2NC1zZXR1cC5leGUKVUJ0aVQ1NlhzWkQrM1RyWW9BWHZ3TGQvV0FmWEhGL1VTZ1JWREhmODlUNWtJOVZ2SnhMUGQweEVidmRhaFZxOW50emdXTHVSZWJiUVZZNnk0Z3QxQXc9PQo=",
-      "url": "https://github.com/lokei-tech/parsequest-releases/releases/download/v0.1.1/ParseQuest.Desktop_0.1.1_x64-setup.exe"
+      "url": "https://github.com/lokei-tech/parsequest-releases/releases/download/v0.1.2/ParseQuest Desktop_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRkV3OFJOVkFIMUwvNyt0enJ4dTVLKzl2ZkFtc2t5enlKTERBUktwRC9vbDY3S1loWTVWdTVBSVdsUWZCQzgvVHo1ckltRThWNFJmT05ZVDh0ZThqWDVsOEV6OFp1SHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzM4OTc4CWZpbGU6UGFyc2VRdWVzdCBEZXNrdG9wXzAuMS4yX3g2NC1zZXR1cC5leGUKclJGMlRXUElTM2xZbFFNTm9HSGg0cjFrWTNLL1FmWGRhTVlsTGw2dmtGQzk0YkFTMVF2eWROdmlhK0s5WkpVN1RhQXFYeTJUMEpvSEdpMTJ2RXVtQmc9PQo="
     }
-  }
+  },
+  "notes": "ParseQuest Desktop v0.1.2 release",
+  "pub_date": "2026-11-15T10:36:19Z"
 }
