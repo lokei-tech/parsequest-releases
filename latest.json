@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-11-19T15:48:51Z",
+  "pub_date": "2026-11-20T11:35:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRkV3OFJOVkFIMUE4VzN0OS9aK0ZUaG0yVDljaFNwQ2hScy92cyt1L1ZCQnM4K3JEaWVqenRLZkFnaXhBTkpObHRNVDFKWG14UDNmVXB5ZFBmNE1PcGxFWlR6b2djb3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAzMzI5CWZpbGU6UGFyc2VRdWVzdCBEZXNrdG9wXzAuMS43X3g2NC1zZXR1cC5leGUKMkdQTDByRnN1bGRCemdlWTNpZyt3a2JGSEpEM2VnV2M3endiMGFPQ3RhY0Eyd0NNQllXODN0M2I1bXFWSjV5OTJ0NUpndlh1OUM5b00vM3lDdC9tQ0E9PQo=",
-      "url": "https://github.com/lokei-tech/parsequest-releases/releases/download/v0.1.7/ParseQuest.Desktop_0.1.7_x64-setup.exe"
+      "url": "https://github.com/lokei-tech/parsequest-releases/releases/download/v0.1.8/ParseQuest.Desktop_0.1.8_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRkV3OFJOVkFIMUIrU1FqYkxnaXdrbmUyMGY5bUVlejc3NThlV0hyc0dNdkhvb1hCQ1hraGIwVkdzOWhPeUdFcGwrU1pSNW81WEpWUE9oUE9BRExTTW1TUDd5Ny9lUXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTc0NDk5CWZpbGU6UGFyc2VRdWVzdCBEZXNrdG9wXzAuMS44X3g2NC1zZXR1cC5leGUKMUkwdy9RcE82RnRrMG5veXZmeHdkMVp2a2ZPVjl1TmZqckNqNUYxN0ZjUU1QZS83SmlENXhzS0l6b3BlT3dBZnBaTXBoNkpjRDNORkx1alAyb1ExQ2c9PQo="
     }
   },
-  "version": "0.1.7",
-  "notes": "ParseQuest Desktop v0.1.7 release"
+  "version": "0.1.8",
+  "notes": "ParseQuest Desktop v0.1.8 release"
 }
